@@ -1,1 +1,1 @@
-# badminton_interface_design
+#The Badminton Club Attendance & Registration System is a web application designed to help badminton clubs manage member attendance, Friday free-play registrations, and club equipment. The system provides separate functionality for club members, coaches, and administrators.
